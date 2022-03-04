@@ -1,4 +1,4 @@
-### Hey 👋, I'm Edy Kurniawan !
+### Hey 👋, I'm Muhammad Ali Mashar !
 
 ![Profile views](https://gpvc.arturio.dev/edy-kurniawan)
 
