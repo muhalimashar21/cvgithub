@@ -37,7 +37,7 @@
 <br />
 <br />
 
-Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Muhammad Ali Mashar**, a **Junior Web Developer** and a **Informatics Engineering Student** 🚀 from Indonesia.
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
 
@@ -47,7 +47,7 @@ Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics 
 - 🤔 My interests are with back-end web developer;
 - 💼 I’m pursuing a Bachelor's degree in Informatics Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via edy.kurniawan280898@gmail.com to reach me.
+- 📫 Please email via muhalimashar21@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](#) to get more info.
 
 
