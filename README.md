@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Muhammad Ali Mashar !
 
-![Profile views](https://gpvc.arturio.dev/edy-kurniawan)
+![Profile views](https://gpvc.arturio.dev/muhalimashar21)
 
 <a href="#">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,7 +8,7 @@
 <a href="#">
   <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
-<a href="https://www.instagram.com/edy_.kurniawan/">
+<a href="https://www.instagram.com/muhalimashar21/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="#">
@@ -65,6 +65,6 @@ Hi there, I'm **Muhammad Ali Mashar**, a **Junior Web Developer** and a **Inform
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![edy-kurniawan github stats](https://github-readme-stats.vercel.app/api?username=edy-kurniawan)](#)
+ [![muhalimashar21 github stats](https://github-readme-stats.vercel.app/api?username=muhalimashar21)](#)
  
   </details>
