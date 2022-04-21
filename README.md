@@ -40,7 +40,7 @@
 Hi there, I'm **Muhammad Ali Mashar**, a **Senior Web Developer** and a **Informatics Engineering Student** 🚀 from Indonesia.
 
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<!--   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" /> -->
 
 **Talking about Personal Stuffs:**
 
